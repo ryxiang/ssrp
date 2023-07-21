@@ -1,4 +1,4 @@
-name: Start build ssr+  aarch64_generic by ryxiang
+name: Start build ssrp+  aarch64_generic by ryxiang
 
 on:
  workflow_dispatch:
